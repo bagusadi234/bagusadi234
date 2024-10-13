@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Le Mineral</h1>
+<h1 align="center">Hi 👋, I'm bagusadi234</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
